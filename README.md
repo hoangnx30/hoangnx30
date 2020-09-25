@@ -1,7 +1,5 @@
 ## Hello guys 👋
 
-<!--
-**hoangnx30/hoangnx30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🔭 Now, i am a final years student at University of Engineering and Technology - VietNam National University Ha Noi.
 ### 🌱 I’m currently learning Javascript, Reactjs, React-native, Nodejs, Mongodb. 
