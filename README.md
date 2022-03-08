@@ -1,11 +1,16 @@
-# Hello guys 👋
+<header style="text-align:center">
+  <h1>Hello guys, I'm Hoang 👋</h1>
+</header>
 
+<body>
+  <h2 align="center">
+    Currently, I am a Web Developer from VietNam
+  </h2>
 
-#### 🔭 Now, i am a final years student at University of Engineering and Technology - VietNam National University Ha Noi.
-#### 🌱 I’m currently learning Javascript, Reactjs, React-native, Nodejs, Mongodb. 
-#### 👯 I’m looking for some nice person who can help me improve my coding skill, we can support each other. 
-#### 🤔 I’m looking for help with Docker and aws. 
-#### 💬 Ask me about Javascript and React ✨
-#### 📫 How to reach me: [MyFacebook](https://www.facebook.com/nguyenxuanhoang30799/) or [MyTwitter](https://twitter.com/hoangnx30)
-#### 😄 Pronouns: call me Hoang 
-#### ⚡ Fun fact: I am noob and I love using my motobike to travel to all province in VietNam which is my country. 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangnx30&show_icons=true&locale=en&layout=compact" alt="Most-Used=Language" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangnx30&" alt="Total-Contributions" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangnx30&show_icons=true&locale=en" alt="Star" />
+
+</body>
