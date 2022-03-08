@@ -1,5 +1,5 @@
-<header style="text-align:center">
-  <h1>Hello guys, I'm Hoang 👋</h1>
+<header>
+  <h1 align="center">Hello guys, I'm Hoang 👋</h1>
 </header>
 
 <body>
